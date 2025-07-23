@@ -1,1 +1,1 @@
-print a
+vufsdkprint a
